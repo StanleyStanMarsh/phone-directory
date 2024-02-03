@@ -10,6 +10,6 @@
 ## Results of working app
 
 ![Pic. 1](https://github.com/StanleyStanMarsh/phone-directory/blob/main/pictures/pic1.png)
+![Pic. 5](https://github.com/StanleyStanMarsh/phone-directory/blob/main/pictures/pic5.png)
 ![Pic. 6](https://github.com/StanleyStanMarsh/phone-directory/blob/main/pictures/pic6.png)
 ![Pic. 7](https://github.com/StanleyStanMarsh/phone-directory/blob/main/pictures/pic7.png)
-![Pic. 8](https://github.com/StanleyStanMarsh/phone-directory/blob/main/pictures/pic8.png)
