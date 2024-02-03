@@ -8,4 +8,5 @@
 6. The data in the table is sorted by one column. Sorting is performed using the built-in functionality of the QTableWidget widget.
 7. Implemented writing data to and reading from a .csv file. The field separator in a line is a semicolon.
 ## Results of working app
-![](https://github.com/StanleyStanMarsh/phone-directory/blob/main/pictures/pic1.png)
+
+![Pic. 1](https://github.com/StanleyStanMarsh/phone-directory/blob/main/pictures/pic1.png)
