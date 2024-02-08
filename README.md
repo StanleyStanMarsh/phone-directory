@@ -1,4 +1,4 @@
-# Phone directory
+# Phone directory on Qt/C++
 ## Accomplished work
 1. A table for storing contact data has been implemented. To implement the table, the QTableWidget class was chosen, which provides a wide range of functions for working with tables. The QPushButton class was used to create the buttons.
 2. A button has been created to add an entry. Clicking on the button creates an empty row at the end of the table.
